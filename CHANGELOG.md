@@ -13,4 +13,4 @@
 - Созданы функции для инициализации, отрисовки ядра и отрисовки электронов.
 - Определены константы для размера окна и границ.
 
-[1.0.0]: https://github.com/YuliaMakarova/model-of-the-molecule/releases/tag/v1.0.0
+[1.0.0]: https://github.com/YuliaMakarova/atom-visualization/releases/tag/v1.0.0
