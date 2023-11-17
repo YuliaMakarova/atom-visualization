@@ -32,7 +32,7 @@
     ```bash
     pip install -r requirements.txt
 
-4. Запустите визуализацию молекулы:
+4. Запустите визуализацию атома:
     ```bash
     python main.py
 
