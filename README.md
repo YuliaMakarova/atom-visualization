@@ -27,7 +27,7 @@
    git clone https://github.com/YuliaMakarova/atom-visualization.git
 2. Перейдите в каталог проекта:
     ```bash
-    cd <project_folder>
+    cd atom-visualization
 3. Установите необходимые зависимости:
     ```bash
     pip install -r requirements.txt
